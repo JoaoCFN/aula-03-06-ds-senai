@@ -1,9 +1,7 @@
+import { CepPage } from "./pages/CepPage";
+
 function App() {
-  return (
-    <>
-      <h1>Teste</h1>
-    </>
-  )
+  return <CepPage />
 }
 
 export default App
